@@ -33,3 +33,5 @@ Thumbs.db
 *.sh
 release/
 
+# test data
+*.pdf
